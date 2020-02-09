@@ -84,6 +84,7 @@ header {
 .staff-list {
   width: 150px;
   margin-right: 35px;
+  float:left;
 }
 .staff-list:last-child {
   margin-right: 0;
