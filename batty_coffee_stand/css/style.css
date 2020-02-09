@@ -76,7 +76,8 @@ header {
 .information-list li {
   margin-bottom: 10px;
 }
-.staff-list-area{
+.staff-list-area:after {
+  clear: both;
   display: block;
   content: " ";
 }
